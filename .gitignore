@@ -1,8 +1,12 @@
+# Dependencies
 node_modules/
+
+# Environment variables
 .env
+
+# Build files
 dist/
-build/
-.vite/
+
 
 *.log
 .DS_Store
