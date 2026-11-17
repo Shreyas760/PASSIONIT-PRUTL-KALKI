@@ -27,3 +27,6 @@ Database:
 
 Frontend communicates with backend APIs.
 Backend handles authentication, game logic, and database operations.
+
+## Video Demo Link 
+https://drive.google.com/file/d/1o_5fAiLHmS8lkraV2Jq96xs-Uvk__0yf/view
